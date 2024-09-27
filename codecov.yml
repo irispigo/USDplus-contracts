@@ -1,0 +1,13 @@
+ignore:
+  - "src/mocks"
+  - "script"
+  - "test"
+
+coverage:
+  status:
+    project:
+      default:
+        informational: true
+    patch:
+      default:
+        informational: true
