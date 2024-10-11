@@ -1,3 +1,4 @@
+No files changed, compilation skipped
 | Contract           | Size (B) | Margin (B) |
 |--------------------|----------|------------|
 | Address            |       58 |     24,518 |
