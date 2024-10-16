@@ -1,4 +1,3 @@
-ignore:
   - "src/mocks"
   - "script"
   - "test"
