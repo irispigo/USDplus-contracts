@@ -1,5 +1,4 @@
 // SPDX-License-Identifier: UNLICENSED
-pragma solidity ^0.8.23;
 
 import "forge-std/Script.sol";
 import {UsdPlus} from "../src/UsdPlus.sol";
