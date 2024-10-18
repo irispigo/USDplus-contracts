@@ -2,6 +2,7 @@
 # Manual changes might be lost - proceed with caution!
 
 __metadata:
+  version: 6
   cacheKey: 8
 
 "@cspotcode/source-map-support@npm:^0.8.0":
